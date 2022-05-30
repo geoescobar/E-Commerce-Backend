@@ -46,7 +46,7 @@ configure a working Express.js API to use Sequelize to interact with a MySQL dat
 
   #### [Github Repo](https://github.com/geoescobar/E-Commerce-Backend-GE)
 
-  - [Img](./Assets/github-repo.png)
+  - ![Img](./Assets/github-repo.png)
 
   #### [Screencastify]()
 
