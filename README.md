@@ -78,5 +78,5 @@ configure a working Express.js API to use Sequelize to interact with a MySQL dat
 
   #### If you have questions regarding this repository? Below is my contact info:
 
-  - github.com/geoescoabr
+  - github.com/geoescobar
   - geo.escobar214@gmail.com
