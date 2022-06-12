@@ -46,25 +46,31 @@ configure a working Express.js API to use Sequelize to interact with a MySQL dat
 
   #### [Github Repo](https://github.com/geoescobar/E-Commerce-Backend-GE)
 
-  - ![Img](./Assets/github-repo.png)
+  ![Img](./Assets/github-repo.png)
 
-  #### [Screencastify]()
+  #### [Screencastify](https://drive.google.com/file/d/1n17CxuZ3mAmvK7DECodD8vFX889I_5NW/view)
 
-  - [Gif]()
+  ![Gif](./Assets/hw14-running.gif)
 
   ***
 
   ## Installation
 
   1. Download NPM packages
-   `npm install`
-   <br>
+     `npm install`
+     <br>
   2. Run mySQL database in db folder
-   `mysql -u root -p`
-      `npm run seed`
-      <br>
-  3. Run application
-   `npm start || node server.js`
+
+  ```
+  mysql -u root -p
+  source schema.sql
+  ```
+
+  3. Seed the database
+     `npm run seed`
+
+  4. Run application
+     `npm start || node server.js`
 
   ***
 
